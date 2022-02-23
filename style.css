@@ -1,0 +1,49 @@
+.ui.borderless.menu {
+  font-size: 15px;
+  padding: 33px 118px 33px 118px;
+  border: none;
+  box-shadow: none;
+}
+
+.ui.centered.image {
+  width: 100%;
+}
+
+.grad-background{
+  background: url('https://lumiere-a.akamaihd.net/v1/images/g_turningred_3_21513_c623ab96.jpeg?region=0%2C0%2C1300%2C730') no-repeat center center fixed;
+  background-size: cover;
+  height: 100%;
+}
+
+.ui.equal.width.grid{
+  padding: 150px 142px 150px 142px;
+}
+
+.ui.medium.image{
+  padding-bottom: 20px;
+}
+
+.equal.width {
+  padding-left: 17px;
+  padding-right: 17px;
+}
+
+.item {
+  color: black;
+  font-size: 14px;
+}
+
+
+
+.ui.centered.grid.container.colorblocktop{
+  padding-left: 300px;
+  padding-top: 180px;
+}
+.ui.huge.image{
+  height: 550px;
+  width: auto;
+}
+
+
+
+
